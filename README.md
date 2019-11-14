@@ -1,7 +1,7 @@
 # RN-To-Do-App
 Simple to do app using react Native
 
-<img src="ToDo_Task.gif" height="800" width="500">
+<img src="ToDo_Task.gif" height="600" width="300">
 
 
 
