@@ -1,7 +1,7 @@
 # RN-To-Do-App
 Simple to do app using react Native
 
-![](ToDo_Task.gif)
+![](ToDo_Task.gif | width=200)
 
 ## This app it's created using Expo
 ## Libraries/Tools used in the project
