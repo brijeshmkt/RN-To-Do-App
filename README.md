@@ -2,6 +2,9 @@
 Simple to do app using react Native
 
 ![](ToDo_Task.gif | width=200)
+<img src="ToDo_Task.gif" height="24" width="48">
+
+
 
 ## This app it's created using Expo
 ## Libraries/Tools used in the project
