@@ -1,8 +1,7 @@
 # RN-To-Do-App
 Simple to do app using react Native
 
-![](ToDo_Task.gif | width=200)
-<img src="ToDo_Task.gif" height="300" width="200">
+<img src="ToDo_Task.gif" height="800" width="500">
 
 
 
